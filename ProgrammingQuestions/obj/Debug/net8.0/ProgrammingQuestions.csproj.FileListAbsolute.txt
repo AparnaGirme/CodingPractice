@@ -1,0 +1,15 @@
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\bin\Debug\net8.0\ProgrammingQuestions.exe
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\bin\Debug\net8.0\ProgrammingQuestions.deps.json
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\bin\Debug\net8.0\ProgrammingQuestions.runtimeconfig.json
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\bin\Debug\net8.0\ProgrammingQuestions.dll
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\bin\Debug\net8.0\ProgrammingQuestions.pdb
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\obj\Debug\net8.0\ProgrammingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\obj\Debug\net8.0\ProgrammingQuestions.AssemblyInfoInputs.cache
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\obj\Debug\net8.0\ProgrammingQuestions.AssemblyInfo.cs
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\obj\Debug\net8.0\ProgrammingQuestions.csproj.CoreCompileInputs.cache
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\obj\Debug\net8.0\ProgrammingQuestions.sourcelink.json
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\obj\Debug\net8.0\ProgrammingQuestions.dll
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\obj\Debug\net8.0\refint\ProgrammingQuestions.dll
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\obj\Debug\net8.0\ProgrammingQuestions.pdb
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\obj\Debug\net8.0\ProgrammingQuestions.genruntimeconfig.cache
+D:\Aparna\Leetcode C#\CodingPractice\CodingPractice\ProgrammingQuestions\obj\Debug\net8.0\ref\ProgrammingQuestions.dll
